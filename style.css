@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+.main{
+    width: 100%;
+    height: 100%;
+    background-image: url(./eid-al-adha-f.webp);
+}
+.overlay{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.7);
+    flex-direction: column;
+}
+.event{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 3rem;
+    text-align: center;
+}
+.time{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 3rem;
+    text-align: center;  
+}
+.colum{
+    width:55% ;
+    height:100px ;
+    margin: 10px auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+input{
+display: block;
+width: 55%;
+height: 50px;
+margin: auto;
+border-radius: 10px;
+text-align: center;
+}
+label{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-align: center;  
+}
+
+
+
+
+
+
